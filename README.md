@@ -1,6 +1,6 @@
-# test_project
+# I am Rich App
 
-A new Flutter project.
+A Flutter project mimicking the actual I am Rich App
 
 ## Getting Started
 
